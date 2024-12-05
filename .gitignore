@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Ignore virtual environment directories
+venv/
+env/
+__init__.py
+
+
+# Ignore MLflow artifact and log directories
+mlruns/
+
+# Ignore local config files
+*.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log

@@ -1,0 +1,15 @@
+artifact_uri: file:D:/Folder/My Folder/PROJECTS/Fraud Detection System/mlflow/501860454071534842/c144c111d4b241e3987b0deb748a02f0/artifacts
+end_time: 1733383370451
+entry_point_name: ''
+experiment_id: '501860454071534842'
+lifecycle_stage: active
+run_id: c144c111d4b241e3987b0deb748a02f0
+run_name: RandomForest
+run_uuid: c144c111d4b241e3987b0deb748a02f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733378278603
+status: 3
+tags: []
+user_id: prasa

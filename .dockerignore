@@ -1,0 +1,25 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment directories
+venv/
+env/
+
+# Ignore `.env` files that may contain sensitive information
+*.env
+
+# Ignore MLflow tracking and logs
+mlruns/
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
